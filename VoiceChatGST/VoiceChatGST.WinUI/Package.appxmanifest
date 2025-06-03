@@ -8,7 +8,7 @@
 
   <Identity Name="com.companyname.voicechatgst" Publisher="CN=User Name" Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="D5AB65B1-08B7-4B7D-82F4-46F0E0802812" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="6A19DB10-F1E8-4A39-ABBB-705914DBF3E9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>VoiceChatGST</DisplayName>
